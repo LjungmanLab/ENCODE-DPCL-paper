@@ -1,1 +1,1 @@
-Information regarding scripts used for readthrough analysis
+#Information regarding scripts used for readthrough analysis
