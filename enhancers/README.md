@@ -1,1 +1,1 @@
-Information regarding scripts used for enhancer/eRNA analyses
+# Information regarding scripts used for enhancer/eRNA analyses
