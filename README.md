@@ -1,5 +1,6 @@
 # ENCODE-DPCL-paper
-**This Repo is Currently Under Development (pardon our dust)**
+**This Repo is Currently Under Development**
+Scripts and detailed descriptions of usage forthcoming!
 
 This repo contains code used for the analyses included in the following preprint:
 
