@@ -1,7 +1,13 @@
 # ENCODE-DPCL-paper
 **This Repo is Currently Under Development:**
 
-Scripts and detailed descriptions of usage forthcoming!
+Overview:
+
+Contents:
+
+Usage:
+
+System requirements:
 
 -------------------------------------------------------
 
